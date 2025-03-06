@@ -1,0 +1,4 @@
+3
+21 Gigel 9.5
+22 Dorel 8.9
+24 Vasilica 9.6
