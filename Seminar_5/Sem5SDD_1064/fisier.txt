@@ -1,0 +1,6 @@
+5
+24 paine 9.9
+47 lapte 7.9
+25 apa 6.5
+70 cafea 25.9
+48 prajitura 12.9

@@ -1,0 +1,15 @@
+﻿  lista_liste.c
+C:\Users\Administrator\Desktop\Sem5SDD_1064\lista_liste.c(27,43): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\Sem5SDD_1064\lista_liste.c(28,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\Sem5SDD_1064\lista_liste.c(37,21): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\Sem5SDD_1064\lista_liste.c(38,19): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\Sem5SDD_1064\lista_liste.c(45,18): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\Sem5SDD_1064\lista_liste.c(53,21): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\Desktop\Sem5SDD_1064\lista_liste.c(54,19): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\Desktop\Sem5SDD_1064\lista_liste.c(65,20): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\Sem5SDD_1064\lista_liste.c(76,25): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\Sem5SDD_1064\lista_liste.c(77,20): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\Desktop\Sem5SDD_1064\lista_liste.c(87,1): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\Sem5SDD_1064\lista_liste.c(100,25): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\Sem5SDD_1064\lista_liste.c(99,1): warning C4133: 'initializing': incompatible types - from 'nodLP *' to 'nodLP *'
+  Sem5SDD_1064.vcxproj -> C:\Users\Administrator\Desktop\Sem5SDD_1064\Debug\Sem5SDD_1064.exe
