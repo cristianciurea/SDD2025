@@ -1,0 +1,6 @@
+5
+24 Dorel 9.5
+47 Ionel 9.4
+48 Maricica 9.7
+70 Gigel 7.8
+94 Vasile 8.5

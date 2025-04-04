@@ -1,0 +1,4 @@
+﻿  tabela_linear_probing.c
+C:\Users\Administrator\Desktop\Sem6SDD_1063\tabela_linear_probing.c(117,35): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\Sem6SDD_1063\tabela_linear_probing.c(118,9): warning C4013: 'strcpy' undefined; assuming extern returning int
+  Sem6SDD_1063.vcxproj -> C:\Users\Administrator\Desktop\Sem6SDD_1063\Debug\Sem6SDD_1063.exe
