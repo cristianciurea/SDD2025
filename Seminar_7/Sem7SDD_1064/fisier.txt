@@ -1,0 +1,6 @@
+5
+9 rezolvare_proiect 3.5
+6 sustinere_examen 2.5
+7 predare_tema 0.5
+3 depunere_cerere_licenta 1.5
+10 plata_taxa 0.5

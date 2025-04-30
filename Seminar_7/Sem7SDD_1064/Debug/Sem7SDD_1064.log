@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Administrator\Desktop\Sem7SDD_1064\Source.c(97,46): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\Sem7SDD_1064\Source.c(98,9): warning C4013: 'strcpy' undefined; assuming extern returning int
+  Sem7SDD_1064.vcxproj -> C:\Users\Administrator\Desktop\Sem7SDD_1064\Debug\Sem7SDD_1064.exe

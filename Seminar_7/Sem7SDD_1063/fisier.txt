@@ -1,0 +1,6 @@
+5
+8 studiu 3.5
+6 jogging 1.5
+10 somn 8
+9 alimentatie 0.5
+11 distractie 2
