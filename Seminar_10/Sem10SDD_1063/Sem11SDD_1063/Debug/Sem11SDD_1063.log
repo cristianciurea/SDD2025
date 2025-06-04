@@ -1,0 +1,4 @@
+﻿  grafuri.c
+C:\Users\cristianciurea\Desktop\Sem11SDD_1063\Sem11SDD_1063\grafuri.c(19,20): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\cristianciurea\Desktop\Sem11SDD_1063\Sem11SDD_1063\grafuri.c(32,24): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+  Sem11SDD_1063.vcxproj -> C:\Users\cristianciurea\Desktop\Sem11SDD_1063\Debug\Sem11SDD_1063.exe

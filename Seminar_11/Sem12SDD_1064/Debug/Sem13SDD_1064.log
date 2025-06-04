@@ -1,0 +1,27 @@
+﻿  Source.c
+C:\Users\Administrator\Desktop\Sem13SDD_1064\Source.c(10,21): warning C4091: 'typedef ': ignored on left of 'nodLP' when no variable is declared
+C:\Users\Administrator\Desktop\Sem13SDD_1064\Source.c(29,44): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\Sem13SDD_1064\Source.c(30,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\Sem13SDD_1064\Source.c(39,21): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\Desktop\Sem13SDD_1064\Source.c(40,19): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\Desktop\Sem13SDD_1064\Source.c(48,18): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\Desktop\Sem13SDD_1064\Source.c(56,21): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\Sem13SDD_1064\Source.c(57,19): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\Sem13SDD_1064\Source.c(66,20): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\Desktop\Sem13SDD_1064\Source.c(78,50): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\Sem13SDD_1064\Source.c(78,60): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\Sem13SDD_1064\Source.c(79,48): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\Sem13SDD_1064\Source.c(79,59): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\Sem13SDD_1064\Source.c(91,20): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\Sem13SDD_1064\Source.c(89,1): warning C4133: 'initializing': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\Desktop\Sem13SDD_1064\Source.c(102,28): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\Sem13SDD_1064\Source.c(103,20): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\Desktop\Sem13SDD_1064\Source.c(112,1): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\Sem13SDD_1064\Source.c(125,29): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\Sem13SDD_1064\Source.c(123,1): warning C4133: 'initializing': incompatible types - from 'nodLP *' to 'nodLP *'
+C:\Users\Administrator\Desktop\Sem13SDD_1064\Source.c(148,19): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\Administrator\Desktop\Sem13SDD_1064\Source.c(160,24): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+C:\Users\Administrator\Desktop\Sem13SDD_1064\Source.c(193,22): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\Sem13SDD_1064\Source.c(184,1): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+C:\Users\Administrator\Desktop\Sem13SDD_1064\Source.c(187,1): warning C4133: 'initializing': incompatible types - from 'nodLP *' to 'nodLP *'
+  Sem13SDD_1064.vcxproj -> C:\Users\Administrator\Desktop\Sem13SDD_1064\Debug\Sem13SDD_1064.exe
